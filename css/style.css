@@ -145,9 +145,7 @@ img {
         align-items: center;
         width: 100%;
     }
-    img{
-       object-fit: ; 
-    }
+    
     .col {
         margin-bottom: 40px;
         min-width: 100%;
@@ -159,5 +157,8 @@ img {
     .card{
         max-width: 300px;
         margin: 0 auto;
+    }
+    .why-us{
+        background-color: rgb(34, 34, 34);
     }
 }   

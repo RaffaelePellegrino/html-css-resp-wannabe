@@ -127,6 +127,17 @@ img {
 /************************************************
     SOLUZIONE RESPONSIVE
  ************************************************/
+@media screen and (max-width: 1160px) { /*bonus*/
+    .site-header{
+        justify-content: center;
+    }  
+    .container {
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+}
+
 @media screen and (max-width: 768px) {
     .site-header{
         justify-content: center;

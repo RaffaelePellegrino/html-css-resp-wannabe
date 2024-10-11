@@ -171,5 +171,12 @@ img {
     }
     .why-us{
         background-color: rgb(34, 34, 34);
+        margin: 0;
+    }
+    .steps{
+        margin: 0;
+    }
+    h2{
+        padding-top: 40px;
     }
 }   

@@ -137,3 +137,27 @@ img {
         padding: 0 20px;
     }
 }
+
+@media screen and (max-width: 576px){
+    .row{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+    img{
+       object-fit: ; 
+    }
+    .col {
+        margin-bottom: 40px;
+        min-width: 100%;
+        justify-content: center;
+    }
+    .container{
+        width: 100%;;
+    }
+    .card{
+        max-width: 300px;
+        margin: 0 auto;
+    }
+}   
